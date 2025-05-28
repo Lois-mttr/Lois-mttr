@@ -24,11 +24,6 @@
 [![](https://visitcount.itsvg.in/api?id=Lois-mttr&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-[![](https://visitcount.itsvg.in/api?id=Lois-mttr&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Lois-mttr/Lois-mttr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
