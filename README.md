@@ -2,8 +2,6 @@
   <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Waving hand" width="60" height="60">
 </p>
 
-<h1 align="center">I'm Luisa</h1>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&pause=1500&color=F48FB1&center=true&vCenter=true&width=500&lines=Hello+World;My+name+is+Luisa"
