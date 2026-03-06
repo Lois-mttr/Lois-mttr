@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&pause=1500&color=F48FB1&center=true&vCenter=true&width=500&lines=Hello+World;My+name+is+Luisa"
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&pause=1500&color=F48FB1&center=true&vCenter=true&width=500&lines=Hello+World+!;My+name+is+Luisa"
     alt="Typing SVG"
   />
 </p>
