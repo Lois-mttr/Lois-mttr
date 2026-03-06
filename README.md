@@ -35,7 +35,7 @@ I enjoy learning continuously, thinking creatively, and working with commitment 
 
 - Software Development
 - Business & Technology
-- Product Thinking
+- Systems thinking
 - Creative Problem Solving
 - Continuous Learning
 
