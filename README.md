@@ -30,6 +30,9 @@ I am interested in digital products, software development, and solutions that co
 I enjoy learning continuously, thinking creatively, and working with commitment on everything I build.
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lois-mttr&label=Profile%20views&color=F48FB1&style=flat" alt="profile views"/>
+</p>
 
 ## Focus Areas
 
@@ -66,6 +69,13 @@ I enjoy learning continuously, thinking creatively, and working with commitment 
 ### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+---
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lois-mttr&show_icons=true&theme=rose_pine&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lois-mttr&layout=compact&theme=rose_pine&hide_border=true"/>
+</p>
 ---
 
 ## Connect with Me
