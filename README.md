@@ -32,8 +32,9 @@ I enjoy learning continuously, thinking creatively, and working with commitment 
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lois-mttr&label=Profile%20views&color=F48FB1&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/lois-mttr?label=Followers&style=flat&color=F48FB1" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/lois-mttr?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=F48FB1" alt="stars"/>
 </p>
-
 ## Focus Areas
 
 - Software Development
@@ -76,7 +77,6 @@ I enjoy learning continuously, thinking creatively, and working with commitment 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=lois-mttr&show_icons=true&theme=rose_pine&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lois-mttr&layout=compact&theme=rose_pine&hide_border=true"/>
 </p>
----
 
 ## Connect with Me
 
