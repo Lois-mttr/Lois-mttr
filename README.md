@@ -35,6 +35,8 @@ I enjoy learning continuously, thinking creatively, and working with commitment 
   <img src="https://img.shields.io/github/followers/lois-mttr?label=Followers&style=flat&color=F48FB1" alt="followers"/>
   <img src="https://img.shields.io/github/stars/lois-mttr?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=F48FB1" alt="stars"/>
 </p>
+
+---
 ## Focus Areas
 
 - Software Development
