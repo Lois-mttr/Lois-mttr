@@ -96,7 +96,7 @@ I enjoy learning continuously, thinking creatively, and working with commitment 
 
 ---
 
-> *I believe technology is most powerful when it is built with vision, creativity, and purpose.*
+> *Imagination is the Discovering Faculty, pre-eminently. It is that which penetrates into the unseen worlds around us, the worlds of Science*
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Lois-mttr/Lois-mttr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
