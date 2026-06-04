@@ -85,9 +85,16 @@ I enjoy learning continuously, thinking creatively, and working with commitment 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lois-mttr&show_icons=true" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lois-mttr&theme=radical" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lois-mttr&layout=compact" width="48%" />
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lois-mttr&theme=radical" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lois-mttr&theme=radical" width="48%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Lois-mttr&theme=radical&hide_border=true" width="60%" />
 
 </div>
 
