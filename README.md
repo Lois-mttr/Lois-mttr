@@ -84,8 +84,16 @@ I enjoy learning continuously, thinking creatively, and working with commitment 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lois-mttr&show_icons=true&theme=rose_pine&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lois-mttr&layout=compact&theme=rose_pine&hide_border=true" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Lois-mttr&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170" 
+    alt="Luisa Téllez GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lois-mttr&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170" 
+    alt="Most Used Languages"
+  />
 </p>
 
 ## Connect with Me
