@@ -81,7 +81,7 @@ I enjoy learning continuously, thinking creatively, and working with commitment 
 ### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ---
-# 📊 GitHub Stats:
+# # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Lois-mttr&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Lois-mttr&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lois-mttr&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
