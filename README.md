@@ -81,22 +81,15 @@ I enjoy learning continuously, thinking creatively, and working with commitment 
 ### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ---
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Lois-mttr&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Lois-mttr&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lois-mttr&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
+---
+[![](https://komarev.com/ghpvc/?username=Lois-mttr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lois-mttr&theme=aura_dark" width="100%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lois-mttr&theme=aura_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lois-mttr&theme=aura_dark" width="48%" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Lois-mttr&theme=aura_dark&hide_border=false" width="60%" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Connect with Me
 
